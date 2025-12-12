@@ -4,10 +4,3 @@ Mc Virgil's Repair Hub
 
 Cahoy,
 --
-Omasdang,
---
-Gaid,
---
-Ratunil,
---
-Pador
